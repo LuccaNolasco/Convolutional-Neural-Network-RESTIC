@@ -11,7 +11,7 @@ O projeto foi desenvolvido em um Notebook Python, portanto, é recomendado que s
 Link: https://anaconda.org/anaconda/python
 
 ### 3 - Como executar
-O arquivo é um Notebook Python, então abra-o no Notebook de sua preferência e o execute. Se desejar apenas o modelo, é possível extrair o código em Python que se encotra após a seção "O Modelo Final", bem como os imports necessários.
+O arquivo é um Notebook Python, então abra-o no Notebook de sua preferência e o execute. Se desejar apenas a arquitetura, é possível extrair o código Python na seção "O Modelo Final", bem como os imports necessários.
 
 ### 4 - Estrutura dos Arquivos
 Todos na raiz do projeto.
